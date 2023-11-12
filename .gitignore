@@ -1,0 +1,5 @@
+*.zip
+public/*.zip
+application/*.zip
+
+.env
