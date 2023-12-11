@@ -2,4 +2,4 @@
 public/*.zip
 application/*.zip
 
-.env
+# .env
